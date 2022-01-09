@@ -1,16 +1,83 @@
-### Hi there 👋
+<h1 align="center">Hey <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Hans</h1>
 
-<!--
-**HANS-2002/HANS-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
+Hello peeps, welcome to my github profile. Feel free to check my repos and show some love by starring my repos or contributing to them if you want to.
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a MERN stack developer and problem solver.
+
+👩‍💻 I'm currently working on MERN stack based password manager.
+
+🧠 I'm currently learning MERN stack.
+
+💬 Ask me about code, songs and games.
+
+📫 Reach me at pattnaikhans@gmail.com
+
+<br />
+
+## 🛠 Skills
+
+<br/>
+
+<div style="display: flex;flex-direction: row;justify-content: space-between;">
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+</div>
+
+<br />
+
+## 🔗 Links
+
+<br/>
+
+<div style="display: flex;flex-direction: row;justify-content: space-between;">
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hans-2002.github.io/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pattnaikhans@gmail.com)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanspattnaik/)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hanspattnaik)
+
+</div>
+
+<div style="display: flex;flex-direction: row;">
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/funk_code_0101)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/pattnaikhans)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/pattnaikhans/)
+
+</div>
+
+<br />
+
+<div align='center'>
+
+![hans Activity Graph](https://activity-graph.herokuapp.com/graph?username=HANS-2002&theme=react-dark&hide_border=true&area=true)
+
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HANS-2002&show_icons=true&theme=github_dark)
+
+</div>
