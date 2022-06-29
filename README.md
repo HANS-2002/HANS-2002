@@ -18,6 +18,8 @@ I'm a MERN stack developer and problem solver.
 
 📫 Reach me at pattnaikhans@gmail.com
 
+🌐 View my portfolio https://www.hanspattnaik.in/
+
 <br />
 
 ## 🛠 Skills
